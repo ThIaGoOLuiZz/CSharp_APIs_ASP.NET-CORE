@@ -1,0 +1,3 @@
+dotnet dev-certs https --clean //Remover
+dotnet dev-certs https //Adicionar
+dotnet dev-certs https --trust //Confiar no Certificado
