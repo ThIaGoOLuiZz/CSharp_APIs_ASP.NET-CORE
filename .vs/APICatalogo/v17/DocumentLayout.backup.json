@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_CatalogoAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_CatalogoAPI\\APICatalogo\\Migrations\\20250205234318_PopulaProdutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APICatalogo\\Migrations\\20250205234318_PopulaProdutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38A1C9A5-F3E9-4DC2-B459-181FB3C9C423}|APICatalogo\\APICatalogo.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_catalogoapi\\apicatalogo\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A1C9A5-F3E9-4DC2-B459-181FB3C9C423}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250205234318_PopulaProdutos.cs",
-              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_CatalogoAPI\\APICatalogo\\Migrations\\20250205234318_PopulaProdutos.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Migrations\\20250205234318_PopulaProdutos.cs",
-              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_CatalogoAPI\\APICatalogo\\Migrations\\20250205234318_PopulaProdutos.cs",
-              "RelativeToolTip": "APICatalogo\\Migrations\\20250205234318_PopulaProdutos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_CatalogoAPI\\APICatalogo\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_CatalogoAPI\\APICatalogo\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "APICatalogo\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T23:43:18.202Z",
+              "WhenOpened": "2025-02-06T01:56:19.953Z",
               "EditorCaption": ""
             }
           ]
