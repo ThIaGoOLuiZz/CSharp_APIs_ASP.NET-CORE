@@ -28,5 +28,19 @@ namespace APICatalogo.Controllers
 
             return categorias;
         }
+
+        [HttpGet("{id:int}", Name = "ObterCategoria")]
+        public ActionResult<Categoria> Get(int id)
+        {
+            var categoria = _context.Categorias.FirstOrDefault(p => p.CategoriaId == id);
+
+            if (categoria is null)
+            {
+                return NotFound("Categoria não encontrad...");
+            }
+            return categoria;
+        }
+
+
     }
 }
